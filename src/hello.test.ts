@@ -16,4 +16,4 @@ describe('Hello class', () => {
     expect(h1).toBeTruthy();
     expect(h1!.textContent).toBe(text);
   });
-}); 
+});

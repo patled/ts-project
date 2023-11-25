@@ -2,4 +2,4 @@ import { Hello } from './hello';
 
 const hello = new Hello();
 
-hello.addHeader("Hello, World!");
+hello.addHeader('Hello, World!');
