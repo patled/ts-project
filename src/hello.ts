@@ -1,7 +1,7 @@
 export class Hello {
-  addHeader() {
+  addHeader(headerText: string) {
     const h1 = document.createElement('h1');
-    h1.textContent = 'Hello, World!';
+    h1.textContent = headerText;
     document.body.appendChild(h1);
   }
 }
