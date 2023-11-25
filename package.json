@@ -6,7 +6,8 @@
   "scripts": {
     "build": "webpack",
     "build:watch": "webpack --watch",
-    "start": "lite-server"
+    "start": "lite-server",
+    "format": "prettier --write \"**/*.{html,ts,json}\""
   },
   "keywords": [],
   "author": "",
