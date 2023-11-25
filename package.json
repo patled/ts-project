@@ -8,7 +8,8 @@
     "build:watch": "webpack --watch",
     "start": "lite-server",
     "format": "prettier --write \"**/*.{html,ts,json}\"",
-    "test": "jest"
+    "test": "jest",
+    "test:watch": "jest --watch"
   },
   "keywords": [],
   "author": "",
