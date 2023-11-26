@@ -11,7 +11,6 @@ describe('Hello class', () => {
     const text = 'Hello, World!';
     hello.addHeader(text);
 
-    // test it the tett is a h1
     const h1 = document.querySelector('h1');
     expect(h1).toBeTruthy();
     expect(h1!.textContent).toBe(text);
