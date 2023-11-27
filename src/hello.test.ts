@@ -13,6 +13,6 @@ describe('Hello class', () => {
 
     const h1 = document.querySelector('h1');
     expect(h1).toBeTruthy();
-    expect(h1!.textContent).toBe(text);
+    expect(h1.textContent).toBe(text);
   });
 });
