@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "cipchk.cssrem",
+    "codezombiech.gitignore",
+    "michelemelluso.gitignore",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "wix.vscode-import-cost",
+    "pflannery.vscode-versionlens",
+    "kisstkondoros.vscode-codemetrics",
+    "ChakrounAnas.turbo-console-log",
+  ],
+  "unwantedRecommendations": []
+}
