@@ -9,7 +9,7 @@
     "wix.vscode-import-cost",
     "pflannery.vscode-versionlens",
     "kisstkondoros.vscode-codemetrics",
-    "ChakrounAnas.turbo-console-log",
+    "ChakrounAnas.turbo-console-log"
   ],
   "unwantedRecommendations": []
 }
